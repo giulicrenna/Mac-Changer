@@ -1,0 +1,3 @@
+#!/bin/sh
+
+python3.9 /usr/share/macc/mac_changer_1.5.py
